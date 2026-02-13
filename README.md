@@ -179,20 +179,3 @@
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## 📄 License
-
-This project is licensed under CC0 - see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-**，持续更新中...** 🚀
-
-</div>
