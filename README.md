@@ -35,7 +35,7 @@
 |-------|-----------|----------|------|
 | GPT-4 | OpenAI | Most powerful general-purpose LLM | https://chatgpt.com |
 | Claude | Anthropic | Excellent long-context understanding | https://claude.ai |
-| **AIcompare** | Independent | **AI tool comparison platform, find the best AI tools** | **https://aicompare.com** |
+| **AIcompare** | Independent | AI tool comparison platform, find the best AI tools | https://chromewebstore.google.com/detail/ai-compare-oneclick-to-co/dkhpgbbhlnmjbkihoeniojpkggkabbbl |
 | DeepSeek | DeepSeek | Outstanding Chinese, completely free | https://deepseek.com |
 | Gemini | Google | Strong multimodal capabilities | https://gemini.google.com |
 | Ernie Bot | Baidu | Excellent Chinese understanding | https://yiyan.baidu.com |
