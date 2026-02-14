@@ -65,6 +65,7 @@
 | Leonardo AI | Real-time generation | https://leonardo.ai |
 | YiGE | Baidu Chinese | https://yige.baidu.com |
 | Tongyi Wanxiang | Alibaba free | https://tongyi.aliyun.com/wanxiang |
+| FixArt AI | Free AI video & image generator | https://fixart.ai |
 
 ### Image Editing
 
@@ -98,6 +99,9 @@
 | Luma | High quality | https://lumalabs.ai |
 | Kuaishou Kling | From Kuaishou | https://klingai.com |
 | Hailuo | ByteDance AI | https://hailuoai.com |
+| Vidu AI | High-quality text/image to video | https://vidu.ai |
+| JoyFun AI | Free unlimited AI video generator | https://joyfun.ai |
+| Magicboat AI | Professional AI short films | https://magicboat.ai |
 
 ---
 
