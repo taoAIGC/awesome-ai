@@ -51,6 +51,17 @@
 | Qwen 2 | 72B | Alibaba open source | https://qwenlm.github.io |
 | Mistral | 7B | Europe's strongest open source | https://mistral.ai |
 | DeepSeek-V2 | 236B | Chinese open source | https://huggingface.co/deepseek-ai |
+| Grok | 314B | xAI's witty conversational AI | https://x.ai/grok |
+| Mistral Large | 123B | Mistral's flagship model | https://mistral.ai/mistral-large |
+| Command R+ | 104B | Cohere's enterprise RAG model | https://cohere.com/command |
+
+### New LLMs for 2026
+
+| Model | Parameters | Features | Link |
+|-------|------------|----------|------|
+| Aya Expanse | 32B | 23-language multilingual model | https://huggingface.co/CohereForAI |
+| Phi-4 | 14B | Microsoft's reasoning model | https://huggingface.co/microsoft |
+| Qwen2.5-Omni | 72B | Alibaba's multimodal model | https://qwenlm.github.io |
 
 ---
 
@@ -173,6 +184,19 @@
 | Replicate | Model API | https://replicate.com |
 | Baidu Qianfan | Chinese API | https://cloud.baidu.com |
 | Alibaba Dashscope | Model services | https://dashscope.aliyun.com |
+| Groq | Fast inference API | https://groq.com |
+| Perplexity API | Search API | https://perplexity.ai |
+| Fireworks AI | Production AI platform | https://fireworks.ai |
+
+### AI Coding & Development
+
+| Platform | Features | Link |
+|----------|----------|------|
+| Cursor | AI-powered IDE | https://cursor.sh |
+| Continue | Open source Copilot | https://continue.dev |
+| Lovable | AI app builder | https://lovable.dev |
+| Bolt | Full-stack AI coding | https://bolt.new |
+| Vercel AI | AI deployment | https://vercel.com/ai |
 
 ---
 
