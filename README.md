@@ -114,6 +114,8 @@
 | Vidu AI | High-quality text/image to video | https://vidu.ai |
 | JoyFun AI | Free unlimited AI video generator | https://joyfun.ai |
 | Magicboat AI | Professional AI short films | https://magicboat.ai |
+| **Pixwit** | AI video & image creator for social media and marketing | https://www.pixwit.ai |
+| **Keevx** | AI video generator with realistic avatars | https://www.keevx.com |
 
 ---
 
@@ -150,6 +152,7 @@
 | Arc Search | Browser search | https://arc.net |
 | Nami Search | From 360 | https://www.n.cn |
 | Tiangong AI | From Kunlun | https://tiangong.cn |
+| **Lovarank** | AI-powered SEO automation for organic traffic growth | https://www.lovarank.com |
 
 ---
 
@@ -164,6 +167,8 @@
 | Tome | Presentations | https://tome.app |
 | Tencent Docs AI | Collaborative office | https://docs.qq.com |
 | WPS AI | Kingsoft Office | https://ai.wps.cn |
+| **Limecube** | AI-powered website builder, SEO-ready | https://www.limecube.ai |
+| **Trickle Magic Canvas** | World's 1st agentic canvas for co-creating with AI | https://trickle.us/magic-canvas |
 
 ### Data Analysis
 
