@@ -22,6 +22,7 @@
 - [🎬 AI Video Generation](#-ai-video-generation)
 - [💻 AI Coding Tools](#-ai-coding-tools)
 - [📝 AI Writing Assistants](#-ai-writing-assistants)
+- [💬 AI Chat & Social](#-ai-chat--social)
 - [🔍 AI Search Tools](#-ai-search-tools)
 - [🎯 AI Productivity Tools](#-ai-productivity-tools)
 
@@ -116,6 +117,7 @@
 | Magicboat AI | Professional AI short films | https://magicboat.ai |
 | **Pixwit** | AI video & image creator for social media and marketing | https://www.pixwit.ai |
 | **Keevx** | AI video generator with realistic avatars | https://www.keevx.com |
+| **Seedance** | Advanced AI video generation with realistic motion | https://seedance.tv |
 
 ---
 
@@ -129,6 +131,7 @@
 | Tabnine | Code completion | https://tabnine.com |
 | Tongyi Lingma | Alibaba free | https://tongyi.aliyun.com/lingma |
 | Wenxin FastCode | Baidu | https://maas.baidu.com |
+| **Nextbrowser** | AI-powered browser automation | https://nextbrowser.ai |
 
 ---
 
@@ -141,6 +144,7 @@
 | Copy.ai | Copy generation | https://copy.ai |
 | Ernie Bot | Baidu writing | https://yiyan.baidu.com |
 | Xiezuocat | Chinese proofreading | https://xiezuocat.com |
+| **ChatUp AI** | Free AI chatbot and writing assistant | https://chatup.ai |
 
 ---
 
@@ -153,6 +157,7 @@
 | Nami Search | From 360 | https://www.n.cn |
 | Tiangong AI | From Kunlun | https://tiangong.cn |
 | **Lovarank** | AI-powered SEO automation for organic traffic growth | https://www.lovarank.com |
+| **A2E** | Free AI toolbox for creators | https://a2e.ai |
 
 ---
 
@@ -202,6 +207,16 @@
 | Lovable | AI app builder | https://lovable.dev |
 | Bolt | Full-stack AI coding | https://bolt.new |
 | Vercel AI | AI deployment | https://vercel.com/ai |
+
+---
+
+## 💬 AI Chat & Social
+
+| Tool | Features | Link |
+|------|----------|------|
+| Character.AI | Character-based AI chat | https://character.ai |
+| **Wollo.ai** | AI character chat platform | https://wollo.ai |
+| **ChatUp AI** | Free AI chatbot with character chat | https://chatup.ai |
 
 ---
 
