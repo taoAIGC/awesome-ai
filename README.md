@@ -118,6 +118,8 @@
 | **Pixwit** | AI video & image creator for social media and marketing | https://www.pixwit.ai |
 | **Keevx** | AI video generator with realistic avatars | https://www.keevx.com |
 | **Seedance** | Advanced AI video generation with realistic motion | https://seedance.tv |
+| **Hailuo AI 2.0** | ByteDance's upgraded video generation with enhanced quality | https://hailuoai.com |
+| **Kling 2.0** | Kuaishou's next-gen video generation model | https://klingai.com |
 
 ---
 
@@ -132,6 +134,9 @@
 | Tongyi Lingma | Alibaba free | https://tongyi.aliyun.com/lingma |
 | Wenxin FastCode | Baidu | https://maas.baidu.com |
 | **Nextbrowser** | AI-powered browser automation | https://nextbrowser.ai |
+| **Devin** | World's first AI software engineer by Cognition Labs | https://cognition.ai |
+| **Aider** | Open-source AI pair programming in your terminal | https://aider.chat |
+| **Codex** | OpenAI's AI programming assistant | https://openai.com |
 
 ---
 
@@ -158,6 +163,8 @@
 | Tiangong AI | From Kunlun | https://tiangong.cn |
 | **Lovarank** | AI-powered SEO automation for organic traffic growth | https://www.lovarank.com |
 | **A2E** | Free AI toolbox for creators | https://a2e.ai |
+| **Devv AI** | AI search engine specifically for developers | https://devv.ai |
+| **Phind** | Developer-focused LLM search engine | https://phind.com |
 
 ---
 
