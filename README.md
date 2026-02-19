@@ -204,6 +204,8 @@
 | Groq | Fast inference API | https://groq.com |
 | Perplexity API | Search API | https://perplexity.ai |
 | Fireworks AI | Production AI platform | https://fireworks.ai |
+| **ZeroClaw** | Fast, small, autonomous AI assistant infrastructure - deploy anywhere, swap anything | https://github.com/zeroclaw-labs/zeroclaw |
+| **Antigravity Skills** | Ultimate collection of 800+ agentic skills for Claude Code/Cursor | https://github.com/rr-anticode/antigravity-awesome-skills |
 
 ### AI Coding & Development
 
@@ -214,6 +216,8 @@
 | Lovable | AI app builder | https://lovable.dev |
 | Bolt | Full-stack AI coding | https://bolt.new |
 | Vercel AI | AI deployment | https://vercel.com/ai |
+| **agent-browser** | Browser automation CLI for AI agents | https://github.com/AgentDesk/agent-browser |
+| **Ralph** | Autonomous AI agent loop that runs until all PRD items are complete | https://github.com/sobell/ralph |
 
 ---
 
