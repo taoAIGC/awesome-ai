@@ -44,6 +44,15 @@
 | Kimi | Moonshot AI | Long-context processing expert | https://kimi.moonshot.cn |
 | Doubao | ByteDance | Cost-effective | https://www.doubao.com |
 
+### New AI Tools (February 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Superpowers** | Agentic skills framework & software development methodology | https://github.com/obra/superpowers |
+| **Claude Code Telegram** | Powerful Telegram bot for remote Claude Code access | https://github.com/RichardAtCT/claude-code-telegram |
+| **Freemocap** | Free Motion Capture for Everyone | https://github.com/freemocap/freemocap |
+| **Heretic** | Automatic censorship removal for language models | https://github.com/p-e-w/heretic |
+
 ### Open Source LLMs
 
 | Model | Parameters | Features | Link |
