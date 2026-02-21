@@ -52,6 +52,9 @@
 | **Claude Code Telegram** | Powerful Telegram bot for remote Claude Code access | https://github.com/RichardAtCT/claude-code-telegram |
 | **Freemocap** | Free Motion Capture for Everyone | https://github.com/freemocap/freemocap |
 | **Heretic** | Automatic censorship removal for language models | https://github.com/p-e-w/heretic |
+| **Rowboat** | Open-source AI coworker with memory - connects to email/meeting notes, builds knowledge graph | https://github.com/rowboatlabs/rowboat |
+| **Chrome DevTools MCP** | Chrome DevTools for coding agents - enables AI assistants to control browsers | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| **pi-mono** | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries | https://github.com/badlogic/pi-mono |
 
 ### Open Source LLMs
 
@@ -146,6 +149,8 @@
 | **Devin** | World's first AI software engineer by Cognition Labs | https://cognition.ai |
 | **Aider** | Open-source AI pair programming in your terminal | https://aider.chat |
 | **Codex** | OpenAI's AI programming assistant | https://openai.com |
+| **Chrome DevTools MCP** | Control Chrome browser with AI coding agents | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| **pi-mono** | AI agent toolkit with coding CLI and unified LLM API | https://github.com/badlogic/pi-mono |
 
 ---
 
@@ -190,6 +195,7 @@
 | WPS AI | Kingsoft Office | https://ai.wps.cn |
 | **Limecube** | AI-powered website builder, SEO-ready | https://www.limecube.ai |
 | **Trickle Magic Canvas** | World's 1st agentic canvas for co-creating with AI | https://trickle.us/magic-canvas |
+| **Rowboat** | Open-source AI coworker with memory - builds knowledge graph from email and meetings | https://github.com/rowboatlabs/rowboat |
 
 ### Data Analysis
 
@@ -215,6 +221,8 @@
 | Fireworks AI | Production AI platform | https://fireworks.ai |
 | **ZeroClaw** | Fast, small, autonomous AI assistant infrastructure - deploy anywhere, swap anything | https://github.com/zeroclaw-labs/zeroclaw |
 | **Antigravity Skills** | Ultimate collection of 800+ agentic skills for Claude Code/Cursor | https://github.com/rr-anticode/antigravity-awesome-skills |
+| **zvec** | Lightweight, lightning-fast in-process vector database | https://github.com/alibaba/zvec |
+| **summarize** | Get gist of any URL/YouTube/Podcast or file - CLI and Chrome Extension | https://github.com/steipete/summarize |
 
 ### AI Coding & Development
 
