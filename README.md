@@ -56,6 +56,16 @@
 | **Chrome DevTools MCP** | Chrome DevTools for coding agents - enables AI assistants to control browsers | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries | https://github.com/badlogic/pi-mono |
 
+### Hot AI Tools (February 22, 2026)
+
+| Tool | Features | Link |
+|------|----------|------|
+| **Suno v4** | Major update with enhanced audio quality and longer tracks - now generates 4-minute songs | https://suno.ai |
+| **Claude 3.7 Sonnet** | Anthropic's latest model with enhanced reasoning and coding capabilities | https://claude.ai |
+| **DeepSeek R1** | Open-source reasoning model with state-of-the-art performance, freely available | https://deepseek.com |
+| **Cursor 1.0** | Revolutionary AI IDE with enhanced agent mode and improved code generation | https://cursor.sh |
+| **Gemini 2.0 Flash** | Google's fastest multimodal model with 1M token context window | https://gemini.google.com |
+
 ### Open Source LLMs
 
 | Model | Parameters | Features | Link |
@@ -75,6 +85,9 @@
 | Aya Expanse | 32B | 23-language multilingual model | https://huggingface.co/CohereForAI |
 | Phi-4 | 14B | Microsoft's reasoning model | https://huggingface.co/microsoft |
 | Qwen2.5-Omni | 72B | Alibaba's multimodal model | https://qwenlm.github.io |
+| **DeepSeek R1** | 671B | Open-source reasoning model with state-of-the-art performance | https://deepseek.com |
+| **Claude 3.7 Sonnet** | - | Enhanced reasoning and coding capabilities | https://claude.ai |
+| **Gemini 2.0 Flash** | - | Google's fastest multimodal model with 1M token context | https://gemini.google.com |
 
 ---
 
@@ -132,6 +145,7 @@
 | **Seedance** | Advanced AI video generation with realistic motion | https://seedance.tv |
 | **Hailuo AI 2.0** | ByteDance's upgraded video generation with enhanced quality | https://hailuoai.com |
 | **Kling 2.0** | Kuaishou's next-gen video generation model | https://klingai.com |
+| **Suno v4** | Major update with enhanced audio quality and longer 4-minute track generation | https://suno.ai |
 
 ---
 
@@ -151,6 +165,7 @@
 | **Codex** | OpenAI's AI programming assistant | https://openai.com |
 | **Chrome DevTools MCP** | Control Chrome browser with AI coding agents | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI agent toolkit with coding CLI and unified LLM API | https://github.com/badlogic/pi-mono |
+| **Cursor 1.0** | Revolutionary AI IDE with enhanced agent mode and improved code generation | https://cursor.sh |
 
 ---
 
