@@ -56,7 +56,7 @@
 | **Chrome DevTools MCP** | Chrome DevTools for coding agents - enables AI assistants to control browsers | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries | https://github.com/badlogic/pi-mono |
 
-### Hot AI Tools (February 22, 2026)
+### Hot AI Tools (February 23, 2026)
 
 | Tool | Features | Link |
 |------|----------|------|
@@ -65,6 +65,11 @@
 | **DeepSeek R1** | Open-source reasoning model with state-of-the-art performance, freely available | https://deepseek.com |
 | **Cursor 1.0** | Revolutionary AI IDE with enhanced agent mode and improved code generation | https://cursor.sh |
 | **Gemini 2.0 Flash** | Google's fastest multimodal model with 1M token context window | https://gemini.google.com |
+| **HuggingFace Skills** | Marketplace for AI skills - discover and share reusable AI capabilities | https://huggingface.co/skills |
+| **Pentagi** | Fully autonomous AI agent system for penetration testing | https://github.com/vxcontrol/pentagi |
+| **GitNexus** | Zero-server code intelligence engine - creates knowledge graphs from GitHub repos | https://github.com/abhigyanpatwari/GitNexus |
+| **FossFLOW** | Generate beautiful isometric infrastructure diagrams with AI | https://github.com/stan-smith/FossFLOW |
+| **Cloudflare Agents** | Build and deploy AI agents on Cloudflare's global network | https://developers.cloudflare.com/agents |
 
 ### Open Source LLMs
 
@@ -238,6 +243,8 @@
 | **Antigravity Skills** | Ultimate collection of 800+ agentic skills for Claude Code/Cursor | https://github.com/rr-anticode/antigravity-awesome-skills |
 | **zvec** | Lightweight, lightning-fast in-process vector database | https://github.com/alibaba/zvec |
 | **summarize** | Get gist of any URL/YouTube/Podcast or file - CLI and Chrome Extension | https://github.com/steipete/summarize |
+| **OpenBB** | Financial data platform for analysts, quants and AI agents | https://github.com/OpenBB-finance/OpenBB |
+| **Cloudflare Agents** | Build and deploy AI agents on Cloudflare's global network | https://developers.cloudflare.com/agents |
 
 ### AI Coding & Development
 
