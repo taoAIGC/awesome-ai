@@ -55,8 +55,11 @@
 | **Rowboat** | Open-source AI coworker with memory - connects to email/meeting notes, builds knowledge graph | https://github.com/rowboatlabs/rowboat |
 | **Chrome DevTools MCP** | Chrome DevTools for coding agents - enables AI assistants to control browsers | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries | https://github.com/badlogic/pi-mono |
+| **TimesFM** | Google's time series foundation model for forecasting - 200M parameters, supports 16k context | https://github.com/google-research/timesfm |
+| **Synkra AIOS** | AI-Orchestrated System for Full Stack Development - agentic framework with planning and development workflow | https://github.com/SynkraAI/aios-core |
+| **zvec** | Alibaba's lightweight in-process vector database - blazing fast similarity search for billions of vectors | https://github.com/alibaba/zvec |
 
-### Hot AI Tools (February 23, 2026)
+### Hot AI Tools (February 24, 2026)
 
 | Tool | Features | Link |
 |------|----------|------|
