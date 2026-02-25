@@ -58,6 +58,10 @@
 | **TimesFM** | Google's time series foundation model for forecasting - 200M parameters, supports 16k context | https://github.com/google-research/timesfm |
 | **Synkra AIOS** | AI-Orchestrated System for Full Stack Development - agentic framework with planning and development workflow | https://github.com/SynkraAI/aios-core |
 | **zvec** | Alibaba's lightweight in-process vector database - blazing fast similarity search for billions of vectors | https://github.com/alibaba/zvec |
+| **System Prompts Collection** | 30,000+ lines of AI tool system prompts - Cursor, Claude Code, Windsurf, Manus and more | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools |
+| **Agent Skills Context Engineering** | Comprehensive collection of agent skills for context engineering and multi-agent architectures | https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering |
+| **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
+| **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
 ### Hot AI Tools (February 24, 2026)
 
