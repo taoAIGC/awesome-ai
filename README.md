@@ -63,7 +63,7 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
-### Hot AI Tools (February 24, 2026)
+### Hot AI Tools (February 26, 2026)
 
 | Tool | Features | Link |
 |------|----------|------|
@@ -77,6 +77,9 @@
 | **GitNexus** | Zero-server code intelligence engine - creates knowledge graphs from GitHub repos | https://github.com/abhigyanpatwari/GitNexus |
 | **FossFLOW** | Generate beautiful isometric infrastructure diagrams with AI | https://github.com/stan-smith/FossFLOW |
 | **Cloudflare Agents** | Build and deploy AI agents on Cloudflare's global network | https://developers.cloudflare.com/agents |
+| **deer-flow** | ByteDance's open-source SuperAgent - researches, codes, and creates with sandboxes, memories, tools and subagents | https://github.com/bytedance/deer-flow |
+| **plano** | Delivery infrastructure for agentic apps - AI-native proxy and data plane | https://github.com/katanemo/plano |
+| **memU** | Memory system for 24/7 proactive AI agents like OpenClaw | https://github.com/NevaMind-AI/memU |
 
 ### Open Source LLMs
 
