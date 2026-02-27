@@ -80,6 +80,9 @@
 | **deer-flow** | ByteDance's open-source SuperAgent - researches, codes, and creates with sandboxes, memories, tools and subagents | https://github.com/bytedance/deer-flow |
 | **plano** | Delivery infrastructure for agentic apps - AI-native proxy and data plane | https://github.com/katanemo/plano |
 | **memU** | Memory system for 24/7 proactive AI agents like OpenClaw | https://github.com/NevaMind-AI/memU |
+| **CC-Switch** | Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode & Gemini CLI | https://github.com/farion1231/cc-switch |
+| **Ruflo (Claude Flow)** | Enterprise AI orchestration platform - deploy 60+ specialized agents in coordinated swarms with self-learning | https://github.com/ruvnet/claude-flow |
+| **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
 
 ### Open Source LLMs
 
