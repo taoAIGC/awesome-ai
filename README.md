@@ -63,7 +63,7 @@
 | **RuVector** | High-performance vector and graph database built in Rust for AI and agentic systems | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | Expressive portrait image animation for live streaming - CVPR 2026 | https://github.com/GVCLab/PersonaLive |
 
-### Hot AI Tools (February 26, 2026)
+### Hot AI Tools (February 27, 2026)
 
 | Tool | Features | Link |
 |------|----------|------|
@@ -83,6 +83,7 @@
 | **CC-Switch** | Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode & Gemini CLI | https://github.com/farion1231/cc-switch |
 | **Ruflo (Claude Flow)** | Enterprise AI orchestration platform - deploy 60+ specialized agents in coordinated swarms with self-learning | https://github.com/ruvnet/claude-flow |
 | **SpacetimeDB** | High-performance distributed database optimized for real-time apps - used by AI agents for instant data sync | https://github.com/clockworklabs/SpacetimeDB |
+| **Ladybird** | Truly independent web browser - first vendor-neutral browser project | https://github.com/LadybirdBrowser/ladybird |
 
 ### Open Source LLMs
 
